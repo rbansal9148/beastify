@@ -1,0 +1,2 @@
+# beastify
+A WebExtension Example
